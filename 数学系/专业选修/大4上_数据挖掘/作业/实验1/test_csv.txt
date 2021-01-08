@@ -1,0 +1,2 @@
+name	type1	type2	total	hp	attack	defense
+Bulbuesar	Grass	Poison	318	65	45	34
