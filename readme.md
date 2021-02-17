@@ -28,7 +28,13 @@
 链接：https://pan.baidu.com/s/1toHeEz0oMvN1H5lXhZrCHw 
 提取码：f2fm 
 
+除了百度网盘之外还可以通过github的镜像来快速克隆，预计半小时就可以所有资料下载到本地，然后配合everything等文件检索工具来查找需要的资料。
+```
+git clone --depth=1 https://hub.fastgit.org/tianyilt/ecust-CourseShare.git
+```
+现在我有存储服务器了，同学们也可通过存储服务器来直接下载一个备份（不一定是最新的）。
 
+访问地址：`http://gofile.me/6KieW/ezEKFle3g`
 
 
 
@@ -143,9 +149,9 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 * [马原答题程序](https://github.com/YifeiYang210/2020ecustMAYUAN)
 
 ## 致谢名单
-16级：以PanJR XieYJ LuLW ChenGR TaoZH为代表的奆佬学长学姐帮助（现在不知道奆佬们的Github用户名，所以用姓拼音加名首字母代指）
-17级：互相帮助合作 a.e.
-18级-0xffffffff级:欢迎每一个关注该项目的你们
+- 16级：以PanJR XieYJ LuLW ChenGR TaoZH为代表的奆佬学长学姐帮助（现在不知道奆佬们的Github用户名，所以用姓拼音加名首字母代指）
+- 17级：互相帮助合作 a.e.
+- 18级-0xffffffff级:欢迎每一个关注该项目的你们
 
 ## 许可
 
